@@ -1,0 +1,48 @@
+{
+    "radios": [
+        {
+               "id": 1,
+               "name": "Jacaranda 94.2",
+               "tagline": "More Music You Love",
+               "color": "0xffa11431",
+               "desc": "More Music You Love",
+               "url": "http://edge.iono.fm/xice/56_high.aac",
+               "icon": "https://turntable.kagiso.io/images/2021-moremusicyouloveSponsoredContentBlockIc.max-140x140.png",
+               "image": "https://turntable.kagiso.io/images/Homepage_Generic_1920x640-01.max-1920x640.jpg",
+               "lang": "Afrikaans",
+               "category": "pop",
+               "disliked": false,
+               "order": 1
+           },
+           {
+               "id": 2,
+               "name": "Groot FM",
+               "tagline": "Jou GROOTste FM in Pretoria",
+               "color": "0xff221420",
+               "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+               "url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+               "icon": "https://static.mytuner.mobi/media/tvos_radios/2z69hnevkvam.jpeg",
+               "image": "https://scontent-jnb1-1.xx.fbcdn.net/v/t1.6435-9/161770888_10164911739390646_5538372860663359405_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=0g5sXkvPhJ8AX9FN5E-&_nc_ht=scontent-jnb1-1.xx&oh=3add629d66dcb5467e9d59a45ef9ff78&oe=60F82BE8",
+               "lang": "Afrikaans",
+               "disliked": false,
+               "category": "rock",
+               "order": 2
+           },
+           {
+               "id": 3,
+               "name": "Pretoria FM",
+               "tagline": "Hoop glo leef in Afrikaans",
+               "color": "0xff04080b",
+               "desc": "Playing music regularly will physically alter your brain structure.",
+               "url": "http://node-14.zeno.fm/cm1fkgbv1ceuv?rj-ttl=5&rj-token=AAABa7Pm__WhrF8jIJ36of_AC5C-TeMcqPiHC5BJB1j1JxkowiWAyQ",
+               "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+               "image": "https://scontent-jnb1-1.xx.fbcdn.net/v/t1.18169-9/16640773_1207229059314699_1199212335670600594_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=jYOOPUowgr8AX_osQV7&_nc_ht=scontent-jnb1-1.xx&oh=3a5a664cd583b088d845e8078bd296a6&oe=60F82FA5",
+               "lang": "Afrikaans",
+               "disliked": false,
+               "category": "hip-hop",
+               "order": 3
+           }
+           
+   ]
+   
+}
